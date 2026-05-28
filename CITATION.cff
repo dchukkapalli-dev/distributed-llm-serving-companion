@@ -22,12 +22,18 @@ authors:
   - family-names: Chukkapalli
     given-names: Divya
     orcid: "https://orcid.org/0009-0005-4691-3395"
+    affiliation: "Independent Researcher, Apex, NC, USA"
+    email: "divya.95j@gmail.com"
   - family-names: Mishra
     given-names: Sanjay
     orcid: "https://orcid.org/0009-0006-7854-996X"
+    affiliation: "Independent Researcher, Raleigh, NC, USA"
+    email: "sanmish4@icloud.com"
   - family-names: Naik
     given-names: Ganesh R
     orcid: "https://orcid.org/0000-0003-1790-9838"
+    affiliation: "College of Medicine and Public Health, Flinders University, Bedford Park, SA 5042, Australia"
+    email: "ganesh.naik@flinders.edu.au"
 abstract: >-
   Machine-readable companion to the survey of distributed LLM-inference
   serving architectures: (i) a CSV taxonomy of all 56 included serving

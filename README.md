@@ -5,6 +5,11 @@ This folder is the machine-readable companion to the survey
 A Taxonomy, Quantitative Models, and Practitioner's Decision Framework"*
 (Chukkapalli, Mishra, Naik — ACM Computing Surveys submission, 2026).
 
+**Deposit.** Permanently archived on Zenodo with DOI
+[10.5281/zenodo.20423003](https://doi.org/10.5281/zenodo.20423003);
+source mirror at
+<https://github.com/dchukkapalli-dev/distributed-llm-serving-companion>.
+
 It exists so that any reader can audit the taxonomy assignments and the
 PRISMA flow counts without re-deriving the source set, and can amend a
 pillar assignment by editing a single CSV row.

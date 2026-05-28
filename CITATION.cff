@@ -10,6 +10,11 @@ version: "1.0.0"
 date-released: "2026-05-25"
 license: CC-BY-4.0
 type: dataset
+repository-code: "https://github.com/dchukkapalli-dev/distributed-llm-serving-companion"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20423003"
+    description: "Zenodo archive of companion v1.0.0"
 authors:
   - family-names: Chukkapalli
     given-names: Divya

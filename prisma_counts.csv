@@ -1,0 +1,11 @@
+stage,records,note
+identification,412,"Venue search across DBLP, ACM Digital Library, IEEE Xplore, USENIX, and Google Scholar"
+deduplication,287,"Unique records after removing duplicates across venues"
+snowballing_backward,32,"Backward citation chasing from included works"
+snowballing_forward,32,"Forward citation chasing from included works"
+snowballing_total_added,64,"Combined backward + forward additions"
+screening_pool,351,"De-duplicated set + snowballing additions entering title/abstract screening"
+screening_retained,198,"Records passing title/abstract screening"
+eligibility_pool,198,"Records entering full-text eligibility"
+included_techniques,56,"Distinct serving techniques included in the taxonomy"
+references_cited_total,120,"All cited works in the manuscript (including background, definitions, comparisons)"

@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: >-
+  If you use the taxonomy, BibTeX, or PRISMA flow counts from this
+  artefact in your own work, please cite the accompanying survey.
+title: >-
+  Companion artefact for "Distributed Serving Architectures for Large
+  Language Model Inference: A Taxonomy, Quantitative Models, and
+  Practitioner's Decision Framework"
+version: "1.0.0"
+date-released: "2026-05-25"
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: Chukkapalli
+    given-names: Divya
+    orcid: "https://orcid.org/0009-0005-4691-3395"
+  - family-names: Mishra
+    given-names: Sanjay
+    orcid: "https://orcid.org/0009-0006-7854-996X"
+  - family-names: Naik
+    given-names: Ganesh R
+    orcid: "https://orcid.org/0000-0003-1790-9838"
+abstract: >-
+  Machine-readable companion to the survey of distributed LLM-inference
+  serving architectures: (i) a CSV taxonomy of all 56 included serving
+  techniques with pillar and cross-pillar assignments and citation keys;
+  (ii) the BibTeX record of every cited work (120 entries); and (iii) the
+  stage-by-stage PRISMA-2020-style flow counts (412 -> 287 -> 198 -> 56).
+  Released so that readers can audit pillar assignments, reproduce the
+  reference count, and amend a classification by editing a single CSV row.
+keywords:
+  - distributed inference
+  - LLM serving
+  - KV cache
+  - speculative decoding
+  - prefill-decode disaggregation
+  - request scheduling
+  - PRISMA
+  - taxonomy
+preferred-citation:
+  type: article
+  title: >-
+    Distributed Serving Architectures for Large Language Model Inference:
+    A Taxonomy, Quantitative Models, and Practitioner's Decision Framework
+  authors:
+    - family-names: Chukkapalli
+      given-names: Divya
+    - family-names: Mishra
+      given-names: Sanjay
+    - family-names: Naik
+      given-names: Ganesh R
+  journal: ACM Computing Surveys
+  year: 2026
+  publisher: Association for Computing Machinery

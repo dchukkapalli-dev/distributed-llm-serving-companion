@@ -6,15 +6,15 @@ title: >-
   Companion artefact for "Distributed Serving Architectures for Large
   Language Model Inference: A Taxonomy, Quantitative Models, and
   Practitioner's Decision Framework"
-version: "1.0.0"
-date-released: "2026-05-25"
+version: "1.0.1"
+date-released: "2026-05-28"
 license: CC-BY-4.0
 type: dataset
 repository-code: "https://github.com/dchukkapalli-dev/distributed-llm-serving-companion"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.20423003"
-    description: "Zenodo archive of companion v1.0.0"
+    value: "10.5281/zenodo.20423049"
+    description: "Zenodo archive of companion v1.0.1"
 authors:
   - family-names: Chukkapalli
     given-names: Divya

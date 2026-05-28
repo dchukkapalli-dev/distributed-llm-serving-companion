@@ -6,8 +6,8 @@ A Taxonomy, Quantitative Models, and Practitioner's Decision Framework"*
 (Chukkapalli, Mishra, Naik — ACM Computing Surveys submission, 2026).
 
 **Deposit.** Permanently archived on Zenodo with DOI
-[10.5281/zenodo.20423003](https://doi.org/10.5281/zenodo.20423003);
-source mirror at
+[10.5281/zenodo.20423049](https://doi.org/10.5281/zenodo.20423049)
+(v1.0.1); source mirror at
 <https://github.com/dchukkapalli-dev/distributed-llm-serving-companion>.
 
 It exists so that any reader can audit the taxonomy assignments and the
